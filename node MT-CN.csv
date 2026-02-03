@@ -1,0 +1,313 @@
+ID,Label,Type
+Garden Flowers,Garden Flowers,Main topic
+Wild Flowers,Wild Flowers,Main topic
+Weeds,Weeds,Main topic
+Trees,Trees,Main topic
+Fruits,Fruits,Main topic
+Vegetables,Vegetables,Main topic
+Herbs,Herbs,Main topic
+Spices And Medicines,Spices And Medicines,Main topic
+Grain,Grain,Main topic
+Birds,Birds,Main topic
+Animals,Animals,Main topic
+Fish,Fish,Main topic
+Reptiles,Reptiles,Main topic
+Insects,Insects,Main topic
+Oberon,Oberon,Characters names
+Titania,Titania,Characters names
+Don John,Don John,Characters names
+Orsino,Orsino,Characters names
+Biron,Biron,Characters names
+Boyet,Boyet,Characters names
+Touchstone,Touchstone,Characters names
+Petrucio,Petrucio,Characters names
+AC_Antony,AC_Antony,Characters names
+Othello,Othello,Characters names
+Juliet,Juliet,Characters names
+Princess,Princess,Characters names
+Perdita,Perdita,Characters names
+Troilus,Troilus,Characters names
+Guiderius,Guiderius,Characters names
+Titus,Titus,Characters names
+Marina,Marina,Characters names
+Longueville,Longueville,Characters names
+Ophelia,Ophelia,Characters names
+Mercutio,Mercutio,Characters names
+Romeo,Romeo,Characters names
+Polixenes,Polixenes,Characters names
+Beatrice,Beatrice,Characters names
+Margaret,Margaret,Characters names
+Laertes,Laertes,Characters names
+Belarius,Belarius,Characters names
+Hermia,Hermia,Characters names
+Arviragus,Arviragus,Characters names
+Porter,Porter,Characters names
+H_Queen,H_Queen,Characters names
+Lucius,Lucius,Characters names
+Ursula,Ursula,Characters names
+Hero,Hero,Characters names
+Ariel,Ariel,Characters names
+Fairy,Fairy,Characters names
+Thisbe,Thisbe,Characters names
+C_Queen,C_Queen,Characters names
+Iachimo,Iachimo,Characters names
+Gonzalo,Gonzalo,Characters names
+TT_Antonio,TT_Antonio,Characters names
+Sir Toby,Sir Toby,Characters names
+Cressida,Cressida,Characters names
+Iago,Iago,Characters names
+Menenius,Menenius,Characters names
+Coriolanus,Coriolanus,Characters names
+Cordelia,Cordelia,Characters names
+Third Witch,Third Witch,Characters names
+Sebastian,Sebastian,Characters names
+Bottom,Bottom,Characters names
+Dromio,Dromio,Characters names
+Rosalind,Rosalind,Characters names
+Katharine,Katharine,Characters names
+Eros,Eros,Characters names
+Marcius,Marcius,Characters names
+First Senator,First Senator,Characters names
+Lucio,Lucio,Characters names
+Lysander,Lysander,Characters names
+Pandarus,Pandarus,Characters names
+LLL_Costard,LLL_Costard,Characters names
+Tamora,Tamora,Characters names
+Prospero,Prospero,Characters names
+Mrs Page,Mrs Page,Characters names
+Benedict,Benedict,Characters names
+Oliver,Oliver,Characters names
+Pauline,Pauline,Characters names
+Casca,Casca,Characters names
+Nestor,Nestor,Characters names
+Volumnia,Volumnia,Characters names
+Second Guard,Second Guard,Characters names
+Timon,Timon,Characters names
+Dumain,Dumain,Characters names
+Soothsayer,Soothsayer,Characters names
+Adriana,Adriana,Characters names
+Desdemona,Desdemona,Characters names
+Benvolio,Benvolio,Characters names
+Paris,Paris,Characters names
+TN_Clown,TN_Clown,Characters names
+Gremio,Gremio,Characters names
+Aufidius,Aufidius,Characters names
+TWT_First Lord,TWT_First Lord,Characters names
+Agamemnon,Agamemnon,Characters names
+Marcus,Marcus,Characters names
+Maria,Maria,Characters names
+Lorenzo,Lorenzo,Characters names
+Cassius,Cassius,Characters names
+Hamlet,Hamlet,Characters names
+AC_Caesar,AC_Caesar,Characters names
+Isabella,Isabella,Characters names
+Euphronius,Euphronius,Characters names
+Ulyss,Ulyss,Characters names
+Saturninus,Saturninus,Characters names
+Amiens,Amiens,Characters names
+Ceres,Ceres,Characters names
+Lear,Lear,Characters names
+Shepherd,Shepherd,Characters names
+Helena,Helena,Characters names
+Edgar,Edgar,Characters names
+Nathaniel,Nathaniel,Characters names
+Celia,Celia,Characters names
+Arid,Arid,Characters names
+Lafeu,Lafeu,Characters names
+First Guard,First Guard,Characters names
+Falstaff,Falstaff,Characters names
+Parolles,Parolles,Characters names
+Evans,Evans,Characters names
+Malvolio,Malvolio,Characters names
+MV_Antonio,MV_Antonio,Characters names
+Biondella,Biondella,Characters names
+Fool,Fool,Characters names
+Nurse,Nurse,Characters names
+MAAN_Claudio,MAAN_Claudio,Characters names
+AMND_Demetrius,AMND_Demetrius,Characters names
+Gower,Gower,Characters names
+Apemantus,Apemantus,Characters names
+Thersites,Thersites,Characters names
+Pistol,Pistol,Characters names
+Ford,Ford,Characters names
+Haberdasher,Haberdasher,Characters names
+First Witch,First Witch,Characters names
+Slender,Slender,Characters names
+Pompey,Pompey,Characters names
+TWT_Clown,TWT_Clown,Characters names
+Puck,Puck,Characters names
+Caliban,Caliban,Characters names
+First Bandit,First Bandit,Characters names
+Anne,Anne,Characters names
+Biondello,Biondello,Characters names
+Lord,Lord,Characters names
+Enobarbus,Enobarbus,Characters names
+Dorcas,Dorcas,Characters names
+AWTEW_Clown,AWTEW_Clown,Characters names
+Friar,Friar,Characters names
+Longaville,Longaville,Characters names
+TWT_Costard,TWT_Costard,Characters names
+Sir Andrew,Sir Andrew,Characters names
+Mustard,Mustard,Characters names
+Macbeth,Macbeth,Characters names
+Cleopatra,Cleopatra,Characters names
+Ghost,Ghost,Characters names
+Poet,Poet,Characters names
+MFM_Duke,MFM_Duke,Characters names
+First Citizen,First Citizen,Characters names
+C_Brutus,C_Brutus,Characters names
+Pericles,Pericles,Characters names
+Iris,Iris,Characters names
+Grumio,Grumio,Characters names
+Officer,Officer,Characters names
+Third Servant,Third Servant,Characters names
+Clown,Clown,Characters names
+Salarino,Salarino,Characters names
+Cleon,Cleon,Characters names
+Old Man,Old Man,Characters names
+Page,Page,Characters names
+Viola,Viola,Characters names
+Hortensio,Hortensio,Characters names
+Rosencrantz,Rosencrantz,Characters names
+Mrs Ford,Mrs Ford,Characters names
+Imogen,Imogen,Characters names
+Ajax,Ajax,Characters names
+Arvigarus,Arvigarus,Characters names
+Lady Macbeth,Lady Macbeth,Characters names
+Paulina,Paulina,Characters names
+Second Captain,Second Captain,Characters names
+Antigonus,Antigonus,Characters names
+Mrs. Ford,Mrs. Ford,Characters names
+Petruchio,Petruchio,Characters names
+Fabian,Fabian,Characters names
+Clown (Feste),Clown (Feste),Characters names
+AWTEW_First Lord,AWTEW_First Lord,Characters names
+Polonius,Polonius,Characters names
+Old Gobbo,Old Gobbo,Characters names
+Valentine,Valentine,Characters names
+Portia,Portia,Characters names
+Autolycus,Autolycus,Characters names
+Musicians (Song),Musicians (Song),Characters names
+Speed,Speed,Characters names
+Horatio,Horatio,Characters names
+Scarus,Scarus,Characters names
+Second Lord,Second Lord,Characters names
+Banquo,Banquo,Characters names
+Adam,Adam,Characters names
+Duncan,Duncan,Characters names
+Dionyza,Dionyza,Characters names
+Lady Macduff,Lady Macduff,Characters names
+Emilia,Emilia,Characters names
+Aaron,Aaron,Characters names
+Senator,Senator,Characters names
+Jaques,Jaques,Characters names
+Launce,Launce,Characters names
+Stephano,Stephano,Characters names
+Trinculo,Trinculo,Characters names
+Marcellus,Marcellus,Characters names
+All Servants,All Servants,Characters names
+Posthumus,Posthumus,Characters names
+Macduff,Macduff,Characters names
+Dromio E.,Dromio E.,Characters names
+Dromio S. (within),Dromio S. (within),Characters names
+Antipholus E.,Antipholus E.,Characters names
+Benedick,Benedick,Characters names
+Orlando,Orlando,Characters names
+Dion,Dion,Characters names
+Calphurnia,Calphurnia,Characters names
+Marcius (Coriolanus),Marcius (Coriolanus),Characters names
+Second Servant,Second Servant,Characters names
+Proteus,Proteus,Characters names
+Theseus,Theseus,Characters names
+Hippolyta,Hippolyta,Characters names
+Benedick (aside),Benedick (aside),Characters names
+Gratiano,Gratiano,Characters names
+First Huntsman,First Huntsman,Characters names
+JC_Brutus,JC_Brutus,Characters names
+Gloster,Gloster,Characters names
+Cornelia,Cornelia,Characters names
+Cornelius,Cornelius,Characters names
+First Murderer,First Murderer,Characters names
+Conrade,Conrade,Characters names
+Dogberry,Dogberry,Characters names
+JC_Antony,JC_Antony,Characters names
+Cloten,Cloten,Characters names
+Soldier,Soldier,Characters names
+Don Pedro,Don Pedro,Characters names
+Leontes,Leontes,Characters names
+Holofernes,Holofernes,Characters names
+Florizel,Florizel,Characters names
+Armado,Armado,Characters names
+Moth,Moth,Characters names
+Julia,Julia,Characters names
+Messenger,Messenger,Characters names
+TN_Duke,TN_Duke,Characters names
+Shylock,Shylock,Characters names
+Launcelot,Launcelot,Characters names
+AYLI_First Lord,AYLI_First Lord,Characters names
+Lavinia,Lavinia,Characters names
+AYLI_Duke,AYLI_Duke,Characters names
+Rosse,Rosse,Characters names
+TA_Demetrius,TA_Demetrius,Characters names
+Posthu,Posthu,Characters names
+First Servant,First Servant,Characters names
+Pisanio,Pisanio,Characters names
+First Fairy,First Fairy,Characters names
+Second Witch,Second Witch,Characters names
+Claud,Claud,Characters names
+Lady M,Lady M,Characters names
+Shallow,Shallow,Characters names
+MFM_Claudio,MFM_Claudio,Characters names
+Tybalt,Tybalt,Characters names
+Kent,Kent,Characters names
+Lion,Lion,Characters names
+Francisco,Francisco,Characters names
+Bernardo,Bernardo,Characters names
+Decius,Decius,Characters names
+Alexander,Alexander,Characters names
+Ulysses,Ulysses,Characters names
+Quince,Quince,Characters names
+Prince Morocco,Prince Morocco,Characters names
+Jessica,Jessica,Characters names
+Patrodus,Patrodus,Characters names
+Gent,Gent,Characters names
+Albany,Albany,Characters names
+Dromio S.,Dromio S.,Characters names
+Prince of Morocco,Prince of Morocco,Characters names
+Menenhis,Menenhis,Characters names
+Tubal,Tubal,Characters names
+Jachimo,Jachimo,Characters names
+Isabel,Isabel,Characters names
+2nd Witch,2nd Witch,Characters names
+Quickly,Quickly,Characters names
+3rd Fisher,3rd Fisher,Characters names
+Caius,Caius,Characters names
+Thersitcs,Thersitcs,Characters names
+Gregory,Gregory,Characters names
+Patrucio,Patrucio,Characters names
+Alexas,Alexas,Characters names
+1st Fisher,1st Fisher,Characters names
+3rd Witch,3rd Witch,Characters names
+Lepidus,Lepidus,Characters names
+King,King,Characters names
+MAAN_Antonio,MAAN_Antonio,Characters names
+Countess,Countess,Characters names
+Hector,Hector,Characters names
+Edmund,Edmund,Characters names
+Lodovico,Lodovico,Characters names
+AC_Clown,AC_Clown,Characters names
+Luciana,Luciana,Characters names
+Achilles,Achilles,Characters names
+Valeria,Valeria,Characters names
+Cominius,Cominius,Characters names
+1st Fairy,1st Fairy,Characters names
+Bassanio,Bassanio,Characters names
+Ant. S.,Ant. S.,Characters names
+Simonides,Simonides,Characters names
+Mamilius,Mamilius,Characters names
+Petiucio,Petiucio,Characters names
+Flavius,Flavius,Characters names
+Maixus,Maixus,Characters names
+Son,Son,Characters names
+Lysimachus,Lysimachus,Characters names
+Mercutio,Mercutio,Characters names
