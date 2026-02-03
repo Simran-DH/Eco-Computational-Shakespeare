@@ -1,0 +1,19 @@
+ID ,Label,Type
+Garden Flowers,Garden Flowers,Main_topic
+Wild Flowers,Wild Flowers,Main_topic
+Weeds,Weeds,Main_topic
+Trees,Trees,Main_topic
+Fruits,Fruits,Main_topic
+Vegetables,Vegetables,Main_topic
+Herbs,Herbs,Main_topic
+Spices And Medicines,Spices And Medicines,Main_topic
+Grain,Grain,Main_topic
+Birds,Birds,Main_topic
+Animals,Animals,Main_topic
+Fish,Fish,Main_topic
+Reptiles,Reptiles,Main_topic
+Insects,Insects,Main_topic
+Male,Male,Identification
+Female,Female,Identification
+Supernatural,Supernatural,Identification
+Group,Group,Identification
